@@ -1,4 +1,4 @@
-!#/bin/bash
+#!/bin/bash
 yum install -y python3;
 yum install -y git;
 git clone https://github.com/Leeon123/Aoyama.git;
